@@ -72,9 +72,237 @@
         "Personnage": "Zhatan the Black"     
     },
     {
+        "image": "./img/Cathay/The_Northern_Provinces.webp",
+        "races": "Grand Cathay",
+        "Factions": "The Northern Provinces",
+        "Personnage": "Miao Ying"     
+    },
+    {
+        "image": "./img/Cathay/The_Western_Provinces.webp",
+        "races": "Grand Cathay",
+        "Factions": "The Western Provinces",
+        "Personnage": "Zhao Ming"     
+    },
+    {
+        "image": "./img/Cathay/The_Jade_Court.webp",
+        "races": "Grand Cathay",
+        "Factions": "The Jade Court",
+        "Personnage": "Yuan Bo, the Jade Dragon"     
+    },
+    {
+        "image": "./img/Dark Elves/hag_graef.webp",
+        "races": "Dark Elves",
+        "Factions": "Hag Graef",
+        "Personnage": "Malus Darkblade"     
+    },
+    {
+        "image": "./img/Dark Elves/Cult_of_Pleasure.webp",
+        "races": "Dark Elves",
+        "Factions": "Cult of Pleasure",
+        "Personnage": "Morathi"     
+    },
+    {
+        "image": "./img/Dark Elves/har_ganeth.webp",
+        "races": "Dark Elves",
+        "Factions": "Har Ganeth",
+        "Personnage": "Crone Hellebron"     
+    },
+    {
+        "image": "./img/Dark Elves/Naggarond.webp",
+        "races": "Dark Elves",
+        "Factions": "Naggarond",
+        "Personnage": "Malekith"     
+    },
+    {
+        "image": "./img/Dark Elves/The_Blessed_Dread.webp",
+        "races": "Dark Elves",
+        "Factions": "The Blessed Dread",
+        "Personnage": "Lokhir Fellheart"     
+    },
+    {
+        "image": "./img/Dark Elves/The_Thousand_Maws.webp",
+        "races": "Dark Elves",
+        "Factions": "The Thousand Maws",
+        "Personnage": "Rakarth"     
+    },
+    {
+        "image": "./img/Dwarfs/Clan_Angrund.webp",
+        "races": "Dwarfs",
+        "Factions": "Clan Angrund",
+        "Personnage": "Belegar Ironhammer"     
+    },
+    {
+        "image": "./img/Dwarfs/Ironbrow%27s_Expedition.webp",
+        "races": "Dwarfs",
+        "Factions": "Ironbrow's Expedition",
+        "Personnage": "Thorek Ironbrow"     
+    },
+    {
+        "image": "./img/Dwarfs/Karak_Kadrin.webp",
+        "races": "Dwarfs",
+        "Factions": "Karak Kadrin",
+        "Personnage": "Ungrim Ironfist"     
+    },
+    {
+        "image": "./img/Dwarfs/Karaz-a-Karak.webp",
+        "races": "Dwarfs",
+        "Factions": "Karaz-a-Karak",
+        "Personnage": "Thorgrim Grudgebearer"     
+    },
+    {
+        "image": "./img/Dwarfs/The_Ancestral_Throng.webp",
+        "races": "Dwarfs",
+        "Factions": "The Ancestral Throng",
+        "Personnage": "Grombrindal"     
+    },
+    {
+        "image": "./img/empire/Cult_of_Sigmar.webp",
+        "races": "Empire",
+        "Factions": "Cult of Sigmar",
+        "Personnage": "Volkmar the Grim"     
+    },
+    {
+        "image": "./img/empire/Reikland.webp",
+        "races": "Empire",
+        "Factions": "Reikland",
+        "Personnage": "Emperor Karl Franz"     
+    },
+    {
+        "image": "./img/empire/The_Golden_Order.webp",
+        "races": "Empire",
+        "Factions": "The Golden Order",
+        "Personnage": "Balthasar Gelt"     
+    },
+    {
+        "image": "./img/empire/The_Huntsmarshal's_Expedition.webp",
+        "races": "Empire",
+        "Factions": "The Huntsmarshal's Expedition",
+        "Personnage": "Markus Wulfhart"     
+    },
+    {
+        "image": "./img/Guerrier du chaos/Heralds_of_the_Tempest.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Heralds of the Tempest",
+        "Personnage": "Kholek Suneater"     
+    },
+    {
+        "image": "./img/Guerrier du chaos/Legion_of_the_Gorequeen.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Legion of the Gorequeen",
+        "Personnage": "Valkia the Bloody"     
+    },
+    {
+        "image": "./img/Guerrier du chaos/Puppets_of_Misrule.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Puppets of Misrule",
+        "Personnage": "Vilitch the Curseling"     
+    },
+    {
+        "image": "./img/Guerrier du chaos/Shadow_Legion.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Shadow Legion",
+        "Personnage": "Be'lakor"     
+    },
+    {
+        "image": "./img/Guerrier du chaos/The_Decadent_Host.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "The Decadent Host",
+        "Personnage": "Sigvald the Magnificent"     
+    },
+    {
+        "image": "./img/Guerrier du chaos/The_Ecstatic_Legions.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "The Ecstatic Legions",
+        "Personnage": "Azazel"     
+    },
+    {
+        "image": "./img/Guerrier du chaos/The_Fecundites.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "The Fecundites",
+        "Personnage": "Festus the Leechlord"     
+    },
+    {
+        "image": "./img/Guerrier du chaos/Warhost_of_the_Apocalypse.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Warhost of the Apocalypse",
+        "Personnage": "Archaon the Everchosen"     
+    },
+    {
+        "image": "./img/High Elves/Avelorn.webp",
+        "races": "High Elves",
+        "Factions": "Avelorn",
+        "Personnage": "Alarielle the Radiant"     
+    },
+    {
+        "image": "./img/High Elves/Eataine.webp",
+        "races": "High Elves",
+        "Factions": "Eataine",
+        "Personnage": "Tyrion"     
+    },
+    {
+        "image": "./img/High Elves/Knights_of_Caledor.webp",
+        "races": "High Elves",
+        "Factions": "Knights of Caledor",
+        "Personnage": "Imrik"     
+    },
+    {
+        "image": "./img/High Elves/Nagarythe.webp",
+        "races": "High Elves",
+        "Factions": "Nagarythe",
+        "Personnage": "Alith Anar"     
+    },
+    {
+        "image": "./img/High Elves/Order_of_Loremasters.webp",
+        "races": "High Elves",
+        "Factions": "Order of Loremasters",
+        "Personnage": "Teclis"     
+    },
+    {
+        "image": "./img/High Elves/Yvresse.webp",
+        "races": "High Elves",
+        "Factions": "Yvresse",
+        "Personnage": "Eltharion"     
+    },
+    {
+        "image": "./img/khorne/Exiles_of_Khorne.webp",
+        "races": "Khorne",
+        "Factions": "Exiles of Khorne",
+        "Personnage": "Skarbrand the Exiled"     
+    },
+    {
+        "image": "./img/Kislev/The_Great_Orthodoxy.webp",
+        "races": "Kislev",
+        "Factions": "The Great Orthodoxy",
+        "Personnage": "Kostaltyn"     
+    },
+    {
+        "image": "./img/Kislev/The_Ice_Court.webp",
+        "races": "Kislev",
+        "Factions": "The Ice Court",
+        "Personnage": "Tzarina Katarin"    
+    },
+    {
+        "image": "./img/Kislev/Ursun_Revivalists.webp",
+        "races": "Kislev",
+        "Factions": "Ursun Revivalists",
+        "Personnage": "Boris Ursus"     
+    },
+    {
+        "image": "./img/Kislev/Daughters_of_the_Forest.webp",
+        "races": "Kislev",
+        "Factions": "Daughters of the Forest",
+        "Personnage": "Mother Ostankya"     
+    },
+    {
+        "image": "./img/Legion Of Chaos/legion.webp",
+        "races": "Daemons of Chaos",
+        "Factions": "Legion of Chaos",
+        "Personnage": "The Daemon Prince"     
+    },
+    {
         "image": "./",
         "races": "",
         "Factions": "",
         "Personnage": ""     
-    },
+    }
 ]
