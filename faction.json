@@ -1,0 +1,80 @@
+[
+    {
+        "image": "./",
+        "races": "",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./img/Beastmen/Warherd_of_the_Shadowgave.webp",
+        "races": "Beastmen",
+        "Factions": "Warherd of the Shadowgave",
+        "Personnage": "Morghur the Corruptor"     
+    },
+    {
+        "image": "./img/Beastmen/Warherd_of_the_One-Eye.webp",
+        "races": "Beastmen",
+        "Factions": "Warherd of the One-Eye",
+        "Personnage": "Khazrak the One-Eye"     
+    },
+    {
+        "image": "./img/Beastmen/Slaughterhorn_Tribe.webp",
+        "races": "Beastmen",
+        "Factions": "Slaughterhorn Tribe",
+        "Personnage": "Taurox the Brass Bull"     
+    },
+    {
+        "image": "./img/Beastmen/Harbinger_of_Disaster.webp",
+        "races": "Beastmen",
+        "Factions": "Harbinger of Disaster",
+        "Personnage": "Malagor the Dark Omen"     
+    },
+    {
+        "image": "./img/Bretonnia/Bordeleaux_Errant.webp",
+        "races": "Bretonnia",
+        "Factions": "Bordeleaux Errant",
+        "Personnage": "Alberic de Bordeleaux"     
+    },
+    {
+        "image": "./img/Bretonnia/Carcassonne.webp",
+        "races": "Bretonnia",
+        "Factions": "Carcassonne",
+        "Personnage": "The Fay Enchantress"     
+    },
+    {
+        "image": "./img/Bretonnia/Chevaliers_de_Lyonesse.webp",
+        "races": "Bretonnia",
+        "Factions": "Chevaliers de Lyonesse",
+        "Personnage": "Repanse de Lyonesse"     
+    },
+    {
+        "image": "./img/Bretonnia/Couronne.webp",
+        "races": "Bretonnia",
+        "Factions": "Couronne",
+        "Personnage": "Louen Leoncoeur"     
+    },
+    {
+        "image": "./img/Chaos Dwarfs/Disciples_of_Hashut.webp",
+        "races": "Chaos Dwarfs",
+        "Factions": "Disciples of Hashut",
+        "Personnage": "Astragoth Ironhand"     
+    },
+    {
+        "image": "./img/Chaos Dwarfs/The_Legion_of_Azgorh.webp",
+        "races": "Chaos Dwarfs",
+        "Factions": "The Legion of Azgorh",
+        "Personnage": "Drazhoath the Ashen"     
+    },
+    {
+        "image": "./img/Chaos Dwarfs/The_Warhost_of_Zharr.webp",
+        "races": "Chaos Dwarfs",
+        "Factions": "The Warhost of Zharr",
+        "Personnage": "Zhatan the Black"     
+    },
+    {
+        "image": "./",
+        "races": "",
+        "Factions": "",
+        "Personnage": ""     
+    },
+]
