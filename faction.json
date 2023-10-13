@@ -54,24 +54,6 @@
         "Personnage": "Louen Leoncoeur"     
     },
     {
-        "image": "./img/Chaos Dwarfs/Disciples_of_Hashut.webp",
-        "races": "Chaos Dwarfs",
-        "Factions": "Disciples of Hashut",
-        "Personnage": "Astragoth Ironhand"     
-    },
-    {
-        "image": "./img/Chaos Dwarfs/The_Legion_of_Azgorh.webp",
-        "races": "Chaos Dwarfs",
-        "Factions": "The Legion of Azgorh",
-        "Personnage": "Drazhoath the Ashen"     
-    },
-    {
-        "image": "./img/Chaos Dwarfs/The_Warhost_of_Zharr.webp",
-        "races": "Chaos Dwarfs",
-        "Factions": "The Warhost of Zharr",
-        "Personnage": "Zhatan the Black"     
-    },
-    {
         "image": "./img/Cathay/The_Northern_Provinces.webp",
         "races": "Grand Cathay",
         "Factions": "The Northern Provinces",
@@ -88,6 +70,24 @@
         "races": "Grand Cathay",
         "Factions": "The Jade Court",
         "Personnage": "Yuan Bo, the Jade Dragon"     
+    },
+    {
+        "image": "./img/Chaos Dwarfs/Disciples_of_Hashut.webp",
+        "races": "Chaos Dwarfs",
+        "Factions": "Disciples of Hashut",
+        "Personnage": "Astragoth Ironhand"     
+    },
+    {
+        "image": "./img/Chaos Dwarfs/The_Legion_of_Azgorh.webp",
+        "races": "Chaos Dwarfs",
+        "Factions": "The Legion of Azgorh",
+        "Personnage": "Drazhoath the Ashen"     
+    },
+    {
+        "image": "./img/Chaos Dwarfs/The_Warhost_of_Zharr.webp",
+        "races": "Chaos Dwarfs",
+        "Factions": "The Warhost of Zharr",
+        "Personnage": "Zhatan the Black"     
     },
     {
         "image": "./img/Dark Elves/hag_graef.webp",
@@ -180,52 +180,34 @@
         "Personnage": "Markus Wulfhart"     
     },
     {
-        "image": "./img/Guerrier du chaos/Heralds_of_the_Tempest.webp",
-        "races": "Warriors of Chaos",
-        "Factions": "Heralds of the Tempest",
-        "Personnage": "Kholek Suneater"     
+        "image": "./img/Greenskins/Bonerattlaz.webp",
+        "races": "Greenskins",
+        "Factions": "Bonerattlaz",
+        "Personnage": "Azhag the Slaughterer"     
     },
     {
-        "image": "./img/Guerrier du chaos/Legion_of_the_Gorequeen.webp",
-        "races": "Warriors of Chaos",
-        "Factions": "Legion of the Gorequeen",
-        "Personnage": "Valkia the Bloody"     
+        "image": "./img/Greenskins/Broken_Axe.webp",
+        "races": "Greenskins",
+        "Factions": "Broken Axe",
+        "Personnage": "Grom the Paunch"     
     },
     {
-        "image": "./img/Guerrier du chaos/Puppets_of_Misrule.webp",
-        "races": "Warriors of Chaos",
-        "Factions": "Puppets of Misrule",
-        "Personnage": "Vilitch the Curseling"     
+        "image": "./img/Greenskins/Crooked_Moon.webp",
+        "races": "Greenskins",
+        "Factions": "Crooked Moon",
+        "Personnage": "Skarsnik"     
     },
     {
-        "image": "./img/Guerrier du chaos/Shadow_Legion.webp",
-        "races": "Warriors of Chaos",
-        "Factions": "Shadow Legion",
-        "Personnage": "Be'lakor"     
+        "image": "./img/Greenskins/Grimgor's 'Ardboyz.webp",
+        "races": "Greenskins",
+        "Factions": "Grimgor's 'Ardboyz",
+        "Personnage": "Grimgor Ironhide"     
     },
     {
-        "image": "./img/Guerrier du chaos/The_Decadent_Host.webp",
-        "races": "Warriors of Chaos",
-        "Factions": "The Decadent Host",
-        "Personnage": "Sigvald the Magnificent"     
-    },
-    {
-        "image": "./img/Guerrier du chaos/The_Ecstatic_Legions.webp",
-        "races": "Warriors of Chaos",
-        "Factions": "The Ecstatic Legions",
-        "Personnage": "Azazel"     
-    },
-    {
-        "image": "./img/Guerrier du chaos/The_Fecundites.webp",
-        "races": "Warriors of Chaos",
-        "Factions": "The Fecundites",
-        "Personnage": "Festus the Leechlord"     
-    },
-    {
-        "image": "./img/Guerrier du chaos/Warhost_of_the_Apocalypse.webp",
-        "races": "Warriors of Chaos",
-        "Factions": "Warhost of the Apocalypse",
-        "Personnage": "Archaon the Everchosen"     
+        "image": "./img/Greenskins/The_Bloody_Handz.webp",
+        "races": "Greenskins",
+        "Factions": "The Bloody Handz",
+        "Personnage": "Wurrzag da Great Green Prophet"     
     },
     {
         "image": "./img/High Elves/Avelorn.webp",
@@ -300,8 +282,272 @@
         "Personnage": "The Daemon Prince"     
     },
     {
+        "image": "./img/lizardmen/Cult_of_Sotek.webp",
+        "races": "Lizardmen",
+        "Factions": "Cult of Sotek",
+        "Personnage": "Tehenhauin"     
+    },
+    {
+        "image": "./img/lizardmen/Ghosts_of_Pahuax.webp",
+        "races": "Lizardmen",
+        "Factions": "Ghosts of Pahuax",
+        "Personnage": "Oxyotl"     
+    },
+    {
+        "image": "./img/lizardmen/Hexoatl.webp",
+        "races": "Lizardmen",
+        "Factions": "Hexoatl",
+        "Personnage": "Lord Mazdamundi"     
+    },
+    {
+        "image": "./img/lizardmen/itza.webp",
+        "races": "Lizardmen",
+        "Factions": "Itza",
+        "Personnage": "Gor-Rok"     
+    },
+    {
+        "image": "./img/lizardmen/Last_Defenders.webp",
+        "races": "Lizardmen",
+        "Factions": "Last Defenders",
+        "Personnage": "Kroq-Gar"     
+    },
+    {
+        "image": "./img/lizardmen/Spirit_of_the_Jungle.webp",
+        "races": "Lizardmen",
+        "Factions": "Spirit of the Jungle",
+        "Personnage": "Nakai the Wanderer"     
+    },
+    {
+        "image": "./img/lizardmen/tlaqua.webp",
+        "races": "Lizardmen",
+        "Factions": "Tlaqua",
+        "Personnage": "Tiktaq'to"     
+    },
+    {
+        "image": "./img/norsca/Wintertooth.webp",
+        "races": "Norsca",
+        "Factions": "Wintertooth",
+        "Personnage": "Throgg"     
+    },
+    {
+        "image": "./img/norsca/World Walkers.webp",
+        "races": "Norcsa",
+        "Factions": "World Walkers",
+        "Personnage": "Wulfrik the Wanderer"     
+    },
+    {
+        "image": "./img/nurgle/Poxmakers_of_Nurgle.webp",
+        "races": "Nurgle",
+        "Factions": "Poxmakers of Nurgle",
+        "Personnage": "Ku'gath Plaguefather"     
+    },
+    {
+        "image": "./img/Ogre Kingdoms/Disciples_of_the_Maw.webp",
+        "races": "Ogre Kingdoms",
+        "Factions": "Disciples of the Maw",
+        "Personnage": "Skrag the Slaughterer"     
+    },
+    {
+        "image": "./img/Ogre Kingdoms/Goldtooth.webp",
+        "races": "Ogre Kingdoms",
+        "Factions": "Goldtooth",
+        "Personnage": "Greasus Goldtooth"     
+    },
+    {
         "image": "./",
-        "races": "",
+        "races": "Skaven",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Skaven",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Skaven",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Skaven",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Skaven",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Skaven",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./img/slaneesh/Seducers_of_Slaanesh.webp",
+        "races": "Slaneesh",
+        "Factions": "img/slaneesh/Seducers_of_Slaanesh.webp",
+        "Personnage": "Seducers of Slaanesh"     
+    },
+    {
+        "image": "./",
+        "races": "Tomb Kings",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Tomb Kings",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Tomb Kings",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Tomb Kings",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Tzeentch",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Tzeentch",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Vampire Coast",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Vampire Coast",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Vampire Coast",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Vampire Coast",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Vampire Counts",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Vampire Counts",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Vampire Counts",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Vampire Counts",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./img/Warriors Of Chaos/Heralds_of_the_Tempest.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Heralds of the Tempest",
+        "Personnage": "Kholek Suneater"     
+    },
+    {
+        "image": "./img/Warriors Of Chaos/Legion_of_the_Gorequeen.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Legion of the Gorequeen",
+        "Personnage": "Valkia the Bloody"     
+    },
+    {
+        "image": "./img/Warriors Of Chaos/Puppets_of_Misrule.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Puppets of Misrule",
+        "Personnage": "Vilitch the Curseling"     
+    },
+    {
+        "image": "./img/Warriors Of Chaos/Shadow_Legion.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Shadow Legion",
+        "Personnage": "Be'lakor"     
+    },
+    {
+        "image": "./img/Warriors Of Chaos/The_Decadent_Host.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "The Decadent Host",
+        "Personnage": "Sigvald the Magnificent"     
+    },
+    {
+        "image": "./img/Warriors Of Chaos/The_Ecstatic_Legions.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "The Ecstatic Legions",
+        "Personnage": "Azazel"     
+    },
+    {
+        "image": "./img/Warriors Of Chaos/The_Fecundites.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "The Fecundites",
+        "Personnage": "Festus the Leechlord"     
+    },
+    {
+        "image": "./img/Warriors Of Chaos/Warhost_of_the_Apocalypse.webp",
+        "races": "Warriors of Chaos",
+        "Factions": "Warhost of the Apocalypse",
+        "Personnage": "Archaon the Everchosen"     
+    },
+    {
+        "image": "./",
+        "races": "Wood Elves",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Wood Elves",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Wood Elves",
+        "Factions": "",
+        "Personnage": ""     
+    },
+    {
+        "image": "./",
+        "races": "Wood Elves",
         "Factions": "",
         "Personnage": ""     
     }

@@ -1,0 +1,26 @@
+[
+    {"Beastmen":
+        [
+            {
+                "image": "./img/Beastmen/Warherd_of_the_Shadowgave.webp",
+                "Factions": "Warherd of the Shadowgave",
+                "Personnage": "Morghur the Corruptor"     
+            },
+            {
+                "image": "./img/Beastmen/Warherd_of_the_One-Eye.webp",
+                "Factions": "Warherd of the One-Eye",
+                "Personnage": "Khazrak the One-Eye"     
+            },
+            {
+                "image": "./img/Beastmen/Slaughterhorn_Tribe.webp",
+                "Factions": "Slaughterhorn Tribe",
+                "Personnage": "Taurox the Brass Bull"     
+            },
+            {
+                "image": "./img/Beastmen/Harbinger_of_Disaster.webp",
+                "Factions": "Harbinger of Disaster",
+                "Personnage": "Malagor the Dark Omen"     
+            }
+        ]
+    }
+]
