@@ -22,5 +22,29 @@
                 "Personnage": "Malagor the Dark Omen"     
             }
         ]
+    },
+    {"Bretonnia":
+        [
+            {
+                "image": "./img/Bretonnia/Bordeleaux_Errant.webp",
+                "Factions": "Bordeleaux Errant",
+                "Personnage": "Alberic de Bordeleaux"  
+            },
+            {
+                "image": "./img/Bretonnia/Carcassonne.webp",
+                "Factions": "Carcassonne",
+                "Personnage": "The Fay Enchantress"     
+            },
+            {
+                "image": "./img/Bretonnia/Chevaliers_de_Lyonesse.webp",
+                "Factions": "Chevaliers de Lyonesse",
+                "Personnage": "Repanse de Lyonesse"     
+             },
+            {
+                "image": "./img/Bretonnia/Couronne.webp",
+                "Factions": "Couronne",
+                "Personnage": "Louen Leoncoeur"
+            }    
+        ]
     }
 ]
