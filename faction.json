@@ -132,7 +132,7 @@
         "Personnage": "Belegar Ironhammer"     
     },
     {
-        "image": "./img/Dwarfs/Ironbrow%27s_Expedition.webp",
+        "image": "./img/Dwarfs/Ironbrows_Expedition.webp",
         "races": "Dwarfs",
         "Factions": "Ironbrow's Expedition",
         "Personnage": "Thorek Ironbrow"     
@@ -390,10 +390,10 @@
         "Personnage": ""     
     },
     {
-        "image": "./img/slaneesh/Seducers_of_Slaanesh.webp",
-        "races": "Slaneesh",
-        "Factions": "img/slaneesh/Seducers_of_Slaanesh.webp",
-        "Personnage": "Seducers of Slaanesh"     
+        "image": "./img/Slaanesh/Seducers_of_Slaanesh.webp",
+        "races": "Slaanesh",
+        "Factions": "Seducers of Slaanesh",
+        "Personnage": "N'Kari"      
     },
     {
         "image": "./",
