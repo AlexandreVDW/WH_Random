@@ -1,0 +1,30 @@
+.filter{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    input{
+        display: none;
+    }
+    input:checked + label {
+        font-weight: bold;
+        color: red;
+      }
+    ul{
+        margin: 10px;
+        label{
+        padding: 10px;
+        cursor: pointer;
+        }
+    }
+    #random-button{
+        width: 40px;
+        height: 40px;
+        background: black;
+        background-image: url('./img/random.svg');
+        background-size: cover; /* Pour ajuster la taille de l'image au bouton */
+        border: none; /* Supprimez les bordures par défaut du bouton si nécessaire */
+        cursor: pointer; /* Changez le curseur lorsque vous survolez le bouton */   
+        margin: 15px;
+    }
+}

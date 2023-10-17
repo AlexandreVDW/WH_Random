@@ -10,58 +10,71 @@
     <h1>Total War Warhammer 3 random</h1>
     <nav class="filter">
         <ul>
-            <label for="Beastmen">Beastmen</label>
             <input type="checkbox" name="Beastmen" id="Beastmen">
-            <label for="Bretonnia">Bretonnia</label>
+            <label for="Beastmen">Beastmen</label>
             <input type="checkbox" name="Bretonnia" id="Bretonnia">
-            <label for="Dwarfs">Dwarfs</label>
+            <label for="Bretonnia">Bretonnia</label>
             <input type="checkbox" name="Dwarfs" id="Dwarfs">
-            <label for="Empire">Empire</label>
+            <label for="Dwarfs">Dwarfs</label>
             <input type="checkbox" name="Empire" id="Empire">
-            <label for="Greenskins">Greenskins</label>
+            <label for="Empire">Empire</label>
             <input type="checkbox" name="Greenskins" id="Greenskins">
-            <label for="Norsca">Norsca</label>
+            <label for="Greenskins">Greenskins</label>
             <input type="checkbox" name="Norsca" id="Norsca">
-            <label for="Vampire Counts">Vampire Counts</label>
+            <label for="Norsca">Norsca</label>
             <input type="checkbox" name="Vampire Counts" id="Vampire Counts">
-            <label for="Warriors of Chaos">Warriors of Chaos</label>
+            <label for="Vampire Counts">Vampire Counts</label>
             <input type="checkbox" name="Warriors of Chaos" id="Warriors of Chaos">
-            <label for="Wood Elves">Wood Elves</label>
+            <label for="Warriors of Chaos">Warriors of Chaos</label>
             <input type="checkbox" name="Wood Elves" id="Wood Elves">
+            <label for="Wood Elves">Wood Elves</label>
         </ul>
         <ul>
-            <label for="Dark Elves">Dark Elves</label>
             <input type="checkbox" name="Dark Elves" id="Dark Elves">
-            <label for="High Elves">High Elves</label>
+            <label for="Dark Elves">Dark Elves</label>
             <input type="checkbox" name="High Elves" id="High Elves">
-            <label for="Lizardmen">Lizardmen</label>
+            <label for="High Elves">High Elves</label>
             <input type="checkbox" name="Lizardmen" id="Lizardmen">
-            <label for="Skaven">Skaven</label>
+            <label for="Lizardmen">Lizardmen</label>
             <input type="checkbox" name="Skaven" id="Skaven">
-            <label for="Tomb Kings">Tomb Kings</label>
+            <label for="Skaven">Skaven</label>
             <input type="checkbox" name="Tomb Kings" id="Tomb Kings">
-            <label for="Vampire Coast">Vampire Coast</label>
+            <label for="Tomb Kings">Tomb Kings</label>
             <input type="checkbox" name="Vampire Coast" id="Vampire Coast">
+            <label for="Vampire Coast">Vampire Coast</label>
         </ul>
         <ul>
-            <label for="Grand Cathay">Cathay</label>
             <input type="checkbox" name="Grand Cathay" id="Grand Cathay">
-            <label for="Chaos Dwarfs">Chaos Dwarfs</label>
+            <label for="Grand Cathay">Cathay</label>
             <input type="checkbox" name="Chaos Dwarfs" id="Chaos Dwarfs">
-            <label for="Khorne">Khorne</label>
+            <label for="Chaos Dwarfs">Chaos Dwarfs</label>
             <input type="checkbox" name="Khorne" id="Khorne">
-            <label for="Kislev">Kislev</label>
+            <label for="Khorne">Khorne</label>
             <input type="checkbox" name="Kislev" id="Kislev">
-            <label for="Nurgle">Nurgle</label>
+            <label for="Kislev">Kislev</label>
             <input type="checkbox" name="Nurgle" id="Nurgle">
-            <label for="Ogre Kingdoms">Ogre Kingdoms</label>
+            <label for="Nurgle">Nurgle</label>
             <input type="checkbox" name="Ogre Kingdoms" id="Ogre Kingdoms">
-            <label for="Slaanesh">Slaanesh</label>
+            <label for="Ogre Kingdoms">Ogre Kingdoms</label>
             <input type="checkbox" name="Slaanesh" id="Slaanesh">
-            <label for="Tzeentch">Tzeentch</label>
+            <label for="Slaanesh">Slaanesh</label>
             <input type="checkbox" name="Tzeentch" id="Tzeentch"> 
+            <label for="Tzeentch">Tzeentch</label>
         </ul>
+        <button id="random-button"></button>
     </nav>
+    <!-- Structure de la boîte modale -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="faction-details">
+                <h3 id="random-faction-name"></h3>
+                <img id="random-faction-image" src="" alt="Random Hero">
+                <p id="random-faction-leader"></p>
+            </div>
+        </div>
+      </div>
+    <!-- Structure des cartes -->
     <!-- Factions Card -->
     <section class="factions">
     
