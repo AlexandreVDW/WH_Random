@@ -19,9 +19,15 @@ document.addEventListener("DOMContentLoaded", function() {
       card.className = "card";
   
       card.innerHTML = `
-        <h2>${item.Factions}</h2>
-        <img src="${item.image}" alt="${item.Factions}">
-        <p>Personnage: ${item.Personnage}</p>
+        <div class="card-header">
+          <h2>${item.Factions}</h2> 
+        </div>
+        <div class="card-body">
+          <img src="${item.image}" alt="${item.Factions}">
+        </div>
+        <div class="card-footer">
+          <p> ${item.Personnage}</p>
+        </div>
       `;
   
       return card;

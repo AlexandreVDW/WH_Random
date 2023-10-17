@@ -1,11 +1,5 @@
 [
     {
-        "image": "./",
-        "races": "",
-        "Factions": "",
-        "Personnage": ""     
-    },
-    {
         "image": "./img/Beastmen/Warherd_of_the_Shadowgave.webp",
         "races": "Beastmen",
         "Factions": "Warherd of the Shadowgave",
@@ -331,7 +325,7 @@
     },
     {
         "image": "./img/norsca/World Walkers.webp",
-        "races": "Norcsa",
+        "races": "Norsca",
         "Factions": "World Walkers",
         "Personnage": "Wulfrik the Wanderer"     
     },
@@ -354,40 +348,40 @@
         "Personnage": "Greasus Goldtooth"     
     },
     {
-        "image": "./",
+        "image": "./img/skaven/Clan Eshin.webp",
         "races": "Skaven",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Clan Eshin",
+        "Personnage": "Deathmaster Snikch"     
     },
     {
-        "image": "./",
+        "image": "./img/skaven/Clan_Mors.webp",
         "races": "Skaven",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Clan Mors",
+        "Personnage": "Queek Headtaker"     
     },
     {
-        "image": "./",
+        "image": "./img/skaven/Clan_Moulder.webp",
         "races": "Skaven",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Clan Moulder",
+        "Personnage": "Throt the Unclean"     
     },
     {
-        "image": "./",
+        "image": "./img/skaven/Clan_Pestilens.webp",
         "races": "Skaven",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Clan Pestilens",
+        "Personnage": "Lord Skrolk"     
     },
     {
-        "image": "./",
+        "image": "./img/skaven/Clan_Rictus.webp",
         "races": "Skaven",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Clan Rictus",
+        "Personnage": "Tretch Craventail"     
     },
     {
-        "image": "./",
+        "image": "./img/skaven/Clan_Skryre.webp",
         "races": "Skaven",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Clan Skryre",
+        "Personnage": "Ikit Claw"     
     },
     {
         "image": "./img/Slaanesh/Seducers_of_Slaanesh.webp",
@@ -396,88 +390,88 @@
         "Personnage": "N'Kari"      
     },
     {
-        "image": "./",
+        "image": "./img/Tomb Kings/Court_of_Lybaras.webp",
         "races": "Tomb Kings",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Court of Lybaras",
+        "Personnage": "High Queen Khalida"     
     },
     {
-        "image": "./",
+        "image": "./img/Tomb Kings/Exiles_of_Nehek.webp",
         "races": "Tomb Kings",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Exiles of Nehek",
+        "Personnage": "Grand Hierophant Khatep"     
     },
     {
-        "image": "./",
+        "image": "./img/Tomb Kings/Followers_of_Nagash.webp",
         "races": "Tomb Kings",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Followers of Nagash",
+        "Personnage": "Arkhan the Black"     
     },
     {
-        "image": "./",
+        "image": "./img/Tomb Kings/Khemri.webp",
         "races": "Tomb Kings",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Khemri",
+        "Personnage": "Settra the Imperishable"     
     },
     {
-        "image": "./",
+        "image": "./img/Tzeentch/Oracles_of_Tzeentch.webp",
         "races": "Tzeentch",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Oracles of Tzeentch",
+        "Personnage": "Kairos Fateweaver"     
     },
     {
-        "image": "./",
+        "image": "./img/Tzeentch/The_Deceivers.webp",
         "races": "Tzeentch",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "The Deceivers",
+        "Personnage": "The Changeling"     
     },
     {
-        "image": "./",
+        "image": "./img/vampire coast/Pirates_of_Sartosa.webp",
         "races": "Vampire Coast",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Pirates of Sartosa",
+        "Personnage": "Aranessa Saltspite"     
     },
     {
-        "image": "./",
+        "image": "./img/vampire coast/The_Awakened.webp",
         "races": "Vampire Coast",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "The Awakened",
+        "Personnage": "Luthor Harkon"     
     },
     {
-        "image": "./",
+        "image": "./img/vampire coast/The_Dreadfleet.webp",
         "races": "Vampire Coast",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "The Dreadfleet",
+        "Personnage": "Count Noctilus"     
     },
     {
-        "image": "./",
+        "image": "./img/vampire coast/The_Drowned.webp",
         "races": "Vampire Coast",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "The Drowned",
+        "Personnage": "Cylostra Direfin"     
     },
     {
-        "image": "./",
+        "image": "./img/Vampire Counts/Caravan_of_Blue_Roses.webp",
         "races": "Vampire Counts",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Caravan of Blue Roses",
+        "Personnage": "Helman Ghorst"     
     },
     {
-        "image": "./",
+        "image": "./img/Vampire Counts/Sylvania.webp",
         "races": "Vampire Counts",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Sylvania",
+        "Personnage": "Vlad von Carstein"     
     },
     {
-        "image": "./",
+        "image": "./img/Vampire Counts/The_Barrow_Legion.webp",
         "races": "Vampire Counts",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "The Barrow Legion",
+        "Personnage": "Heinrich Kemmler"     
     },
     {
-        "image": "./",
+        "image": "./img/Vampire Counts/The Drakenhof Conclave.webp",
         "races": "Vampire Counts",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "The Drakenhof Conclave",
+        "Personnage": "Mannfred von Carstein"     
     },
     {
         "image": "./img/Warriors Of Chaos/Heralds_of_the_Tempest.webp",
@@ -528,27 +522,27 @@
         "Personnage": "Archaon the Everchosen"     
     },
     {
-        "image": "./",
+        "image": "./img/wood Elves/Argwylon.webp",
         "races": "Wood Elves",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Argwylon",
+        "Personnage": "Durthu"     
     },
     {
-        "image": "./",
+        "image": "./img/wood Elves/Heralds_of_Ariel.webp",
         "races": "Wood Elves",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Heralds of Ariel",
+        "Personnage": "Sisters of Twilight"     
     },
     {
-        "image": "./",
+        "image": "./img/wood Elves/Talsyn.webp",
         "races": "Wood Elves",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Talsyn",
+        "Personnage": "Orion"     
     },
     {
-        "image": "./",
+        "image": "./img/wood Elves/Wargrove_of_Woe.webp",
         "races": "Wood Elves",
-        "Factions": "",
-        "Personnage": ""     
+        "Factions": "Wargrove of Woe",
+        "Personnage": "Drycha"     
     }
 ]
