@@ -1,21 +1,37 @@
 .factions{
-    display: grid;
-     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-     gap: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100%;
+    overflow-y: auto;
     .card{
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
         text-align: center;
+        width: 200px;
         height: 350px;
-        border: 2px solid black;
+        border: 1px solid black;
+        background-color: #ffffff; // Couleur de fond plus claire
+        border-radius: 10px; // Coins arrondis
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); // Ombre portée
         .card-header{
             height: 50px;
             width: 100%;
             padding: 5px;
             h2{
                 font-size: 1.5rem;
+            }
+        }
+        .card-body{
+            width: 100%;
+            img{
+                width: 100%;
+                height: 100%;
             }
         }
         

@@ -56,6 +56,11 @@ input {
 }
 body {
   font-family: "MedievalSharp", cursive;
+  overflow-y: hidden;
+  background-image: url("../img/modal.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 body h1 {
   font-size: 5rem;
@@ -65,9 +70,14 @@ body h1 {
 }
 
 .factions {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  display: flex;
+  flex-wrap: wrap;
   gap: 5px;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  width: 100%;
+  overflow-y: auto;
 }
 .factions .card {
   display: flex;
@@ -75,8 +85,12 @@ body h1 {
   align-items: center;
   justify-content: space-between;
   text-align: center;
+  width: 200px;
   height: 350px;
-  border: 2px solid black;
+  border: 1px solid black;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 .factions .card .card-header {
   height: 50px;
@@ -85,6 +99,13 @@ body h1 {
 }
 .factions .card .card-header h2 {
   font-size: 1.5rem;
+}
+.factions .card .card-body {
+  width: 100%;
+}
+.factions .card .card-body img {
+  width: 100%;
+  height: 100%;
 }
 
 .filter {
@@ -110,12 +131,11 @@ body h1 {
 .filter #random-button {
   width: 40px;
   height: 40px;
-  background: black;
-  background-image: url("./img/random.svg");
+  background: transparent;
+  background-image: url("../img/random.svg");
   background-size: cover; /* Pour ajuster la taille de l'image au bouton */
   border: none; /* Supprimez les bordures par défaut du bouton si nécessaire */
   cursor: pointer; /* Changez le curseur lorsque vous survolez le bouton */
-  margin: 15px;
 }
 
 .modal {
@@ -129,10 +149,22 @@ body h1 {
   overflow: auto;
 }
 .modal .modal-content {
-  background-color: #aaaaaa;
+  background-color: #ffffff;
   margin: 5% auto;
   padding: 20px;
   width: 60%;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  animation: fadeIn ease 1s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 .modal .modal-content .faction-details {
   display: flex;
@@ -145,6 +177,12 @@ body h1 {
   padding: 1%;
   margin: 0;
   text-align: center;
+}
+.modal .modal-content .faction-details #random-faction-image {
+  width: 80%;
+  height: 80%;
+  padding: 0%;
+  margin: 0;
 }
 .modal .modal-content .faction-details #random-faction-leader {
   padding: 1%;

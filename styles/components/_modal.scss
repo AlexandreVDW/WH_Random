@@ -9,10 +9,18 @@
     overflow: auto;
 
     .modal-content {
-        background-color: #aaaaaa;
+        background-color: #ffffff; // Couleur de fond plus claire
         margin: 5% auto;
         padding: 20px;
         width: 60%;
+        border-radius: 10px; // Coins arrondis
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); // Ombre portée
+        transition: all 0.3s ease; // Transition douce
+        animation: fadeIn ease 1s; // Ajoutez cette ligne
+        @keyframes fadeIn {
+            0% {opacity:0;}
+            100% {opacity:1;}
+        }
         .faction-details{
             display: flex;
             flex-direction: column;
@@ -23,6 +31,12 @@
                 padding: 1%;
                 margin: 0;
                 text-align: center;
+            }
+            #random-faction-image{
+                width: 80%;
+                height: 80%;
+                padding: 0%;
+                margin: 0;
             }
             #random-faction-leader{
                 padding: 1%;

@@ -4,15 +4,15 @@ this project was made for the purpose of learning and practicing the use of HTML
 
 ## Features
 
-- The user can select the faction from a checkbox list but it's the name of the faction not icon.
-- The user can click on the dice on the middle of the screen to get a random faction and lord.
-
-## Finish or not 
-
 - [X] The user can click on the dice on the middle of the screen to get a random faction and lord.
-- [] The svg of the dice got an error and we just see a black square.
-- [] The user can select the faction from a checkbox list but it's the name of the faction not icon.
+- [X] The random button is a svg of a dice.
 - [X] The user get a modal with the name of the faction and the lord.
+- [X] The user can click on the modal to close it.
+- [X] Some smooth animations are added to the modal.
+
+## Design
+
+I am not an expert on design and on this project I wanted to focus on the functionality of the application. I did however try to make the application look good and be easy to use. I used a special front to give a loot more fantasy style to the application. And i use the official logo of the game to give a more professional look to the application.
 
 ## Requirements
 - HTML5

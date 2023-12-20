@@ -3,6 +3,11 @@
 
 body{
     font-family: 'MedievalSharp', cursive;
+    overflow-y: hidden;
+    background-image: url('../img/modal.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     h1{
         font-size: 5rem;
         text-align: center;

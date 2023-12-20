@@ -20,11 +20,10 @@
     #random-button{
         width: 40px;
         height: 40px;
-        background: black;
-        background-image: url('./img/random.svg');
+        background: transparent;
+        background-image: url('../img/random.svg');
         background-size: cover; /* Pour ajuster la taille de l'image au bouton */
         border: none; /* Supprimez les bordures par défaut du bouton si nécessaire */
         cursor: pointer; /* Changez le curseur lorsque vous survolez le bouton */   
-        margin: 15px;
     }
 }
